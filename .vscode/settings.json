@@ -2,7 +2,7 @@
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 20,
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -22,5 +22,5 @@
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
-  "gitdoc.enabled": false,
+  "gitdoc.enabled": true,
 }
